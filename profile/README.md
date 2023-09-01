@@ -1,11 +1,6 @@
 <div align = "center">
   
 
-#
-  
------------------------------
-
-
 </br></br>
   
 <img src = "https://github.com/Just-Wak-Beat/Just_Wak_and_Beats/raw/main/imgs/comp1.gif"></br>
