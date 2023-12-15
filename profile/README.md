@@ -32,7 +32,7 @@
   
 <img src = "https://github.com/Just-Wak-Beat/Just_Wak_and_Beats/raw/main/imgs/comp3.gif"></br>
 
-<b> 여러 유저들이 직접 제작한 커스텀 유저맵을 플레이 해보세요! (추후 업데이트 예정) </b>
+<b> 여러 유저들이 직접 제작한 커스텀 유저맵을 플레이 해보세요! </b>
 
 </br></br>
 
