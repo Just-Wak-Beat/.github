@@ -64,14 +64,14 @@
 
 <img src = "https://github.com/Just-Wak-Beat/Just_Wak_and_Beats/raw/main/imgs/android.png" width = "200px"></br>
 
-[![](https://img.shields.io/github/downloads/ABER1047/Just_Wak_and_Beats/CBT4.0/Just.Wak.and.Beats.4.0.apk?color=98FF6A&label=Download&style=for-the-badge)](https://github.com/ABER1047/Just_Wak_and_Beats/releases/download/CBT4.0/Just.Wak.and.Beats.4.0.apk)
+[![](https://img.shields.io/github/downloads/ABER1047/Just_Wak_and_Beats/CBT4.0/Just.Wak.and.Beats.4.0.apk?color=98FF6A&label=Download&style=for-the-badge)](https://github.com/Just-Wak-Beat/Project_Wak_Beat/releases/download/Release1.01/Project.Wak.Beat.release.v1.01.apk)
 
 
 </br></br></br>
 
 <img src = "https://github.com/Just-Wak-Beat/Just_Wak_and_Beats/blob/main/imgs/windows.png" width = "200px"></br>
 
-[![](https://img.shields.io/github/downloads/ABER1047/Just_Wak_and_Beats/CBT4.0/Just.Wak.and.Beats.Beta.4.0.zip?color=6AE2FF&label=Download&style=for-the-badge)](https://github.com/ABER1047/Just_Wak_and_Beats/releases/download/CBT4.0/Just.Wak.and.Beats.Beta.4.0.zip)
+[![](https://img.shields.io/github/downloads/ABER1047/Just_Wak_and_Beats/CBT4.0/Just.Wak.and.Beats.Beta.4.0.zip?color=6AE2FF&label=Download&style=for-the-badge)](https://github.com/Just-Wak-Beat/Project_Wak_Beat/releases/download/Release1.01/Project.Wak.Beat.release.v1.01.zip)
 
 </br></br>
 
